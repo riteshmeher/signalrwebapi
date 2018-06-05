@@ -1,8 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs
-/AspNetWebApiSignalRDemo.WebApi/bin
-/AspNetWebApiSignalRDemo.WebApi/obj/Debug
-/packages
