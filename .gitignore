@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/AspNetWebApiSignalRDemo.WebApi/bin
+/AspNetWebApiSignalRDemo.WebApi/obj/Debug
+/packages
